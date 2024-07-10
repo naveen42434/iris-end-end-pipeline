@@ -1,0 +1,10 @@
+faker
+parsedatetime
+hopsworks
+nbconvert
+scikit-learn
+plotly
+Pillow
+seaborn
+dataframe-image
+plotly
